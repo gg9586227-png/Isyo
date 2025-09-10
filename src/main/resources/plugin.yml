@@ -1,0 +1,13 @@
+name: TrimAbilities
+main: com.trimabilities.TrimAbilitiesPlugin
+version: ${project.version}
+api-version: "1.20"
+authors: [ "TrimAbilities" ]
+commands:
+  trimability:
+    description: Activate your armor trim ability
+    usage: /trimability
+    aliases: [ ta ]
+permissions:
+  trimabilities.use:
+    default: true

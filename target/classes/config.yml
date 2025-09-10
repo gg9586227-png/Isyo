@@ -1,0 +1,41 @@
+cooldowns:
+  sentry: 60
+  dune: 30
+  coast: 45
+  eye: 30
+  host: 60
+  raiser: 35
+  rib: 60
+  shaper: 45
+  silence: 45
+  snout: 45
+  spire: 45
+  tide: 45
+  vex: 45
+  ward: 120
+  wayfinder: 60
+  wild: 45
+
+durations:
+  sentry: 30
+  dune: 0
+  coast: 45
+  eye: 10
+  host: 45
+  raiser: 8
+  rib: 30
+  shaper: 45
+  silence: 30
+  snout: 30
+  spire: 0
+  tide: 20
+  vex: 20
+  ward: 60
+  wayfinder: 0
+  wild: 30
+
+messages:
+  no_set: "&cYou need a full set with the same trim!"
+  on_cooldown: "&eAbility on cooldown for &6%secs%s &eseconds."
+  activated: "&aActivated &2%name% &aability!"
+  ready: "&aYour &2%name% &aability is ready again."
